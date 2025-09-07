@@ -42,21 +42,15 @@ Commencez la journée à la Galerie nationale d’Irlande, poursuivez par une pr
 Empiece el día en la Galería Nacional de Irlanda, continúe con un paseo por el Trinity College y su biblioteca histórica, y finalice con un concierto en el National Concert Hall.
 ```
 
----
-
-## Version
-**Current release:** `0.1.0` — Initial public version (console-based prototype).  
-Stable enough for demonstration purposes; not production-ready.
-
----
-
-## Demo
-
 Here is a short demonstration of the console assistant:
 
 ![Demo of Cultural Concierge AI](./assets/screenshot1.png)
 
 ---
+
+## Version
+**Current release:** `0.1.0` — Initial public version (console-based prototype).  
+Stable enough for demonstration purposes; not production-ready.
 
 ## Development Roadmap
 - [x] Rich UI with refined “chat bubbles” in console.  
